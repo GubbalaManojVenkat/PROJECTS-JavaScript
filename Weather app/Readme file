@@ -1,0 +1,18 @@
+Simple Weather App
+
+A clean and simple Weather App built using HTML, CSS, and JavaScript that shows real-time weather information for any city using the OpenWeatherMap API.
+
+Features
+
+Search weather by city name  
+Displays temperature, weather condition, and weather icon  
+Uses Fetch API to get live data  
+Changes background color based on weather type (Sunny, Cloudy, Rainy, etc.)  
+Shows an error message if city not found
+
+Tech Stack
+
+HTML5 – Structure of the page  
+CSS3 – Styling and background gradients  
+JavaScript (Vanilla)– Logic and API integration  
+OpenWeatherMap API – Weather data source
